@@ -1,3 +1,4 @@
-# tup_aplicada_2025_guia3.1
+# Guia 3.1. ADO.NET
 
-[Enunciado](https://docs.google.com/document/d/1AerAve71r6Lrdvn4Shw0Kb-JOU4GUQkx/preview)
+
+[Enunciado](https://docs.google.com/document/d/15I9-Xei_yA1IXLrNdZTTEPQ8QSxz3xRN/preview)
