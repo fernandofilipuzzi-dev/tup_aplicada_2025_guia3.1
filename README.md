@@ -1,4 +1,3 @@
-# Guia 3.1. ADO.NET
+# Guia 3.1 T-SQL, procedimientos y funciones
 
-
-[Enunciado](https://docs.google.com/document/d/15I9-Xei_yA1IXLrNdZTTEPQ8QSxz3xRN/preview)
+[Enunciado](https://docs.google.com/document/d/1XwS9mdSGZatepuW4YKGbHPJqDPdyOaIc/preview)
